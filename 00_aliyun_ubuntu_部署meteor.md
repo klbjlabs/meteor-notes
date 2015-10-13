@@ -1,6 +1,6 @@
 ## 阿里云 ubuntu 系统部署 meteor 环境
 
-阿里云服务器买回来是没有安装 curl 这个工具的，需要我们自己手动安装。你可以到 curl 官网 下载源码包安装，也可以使用本文提供的简单的 apt-get 方法安装。
+阿里云服务器买回来是没有安装 curl 这个工具的，需要我们自己手动安装。你可以到 [curl官网](http://curl.haxx.se/download.html) 下载源码包安装，也可以使用本文提供的简单的 apt-get 方法安装。
 
 ~~~ bash
 $ sudo apt-get update
